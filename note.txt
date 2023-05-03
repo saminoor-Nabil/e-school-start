@@ -1,0 +1,9 @@
+font family
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+color
+    bl - #000000   
+    wh - #ffffff
+    rd - #FD511A
+    gr - #21B573
